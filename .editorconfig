@@ -7,6 +7,10 @@ charset = utf-8
 indent_style = space
 indent_size = 4
 
+[*.{cpp,hpp,c,h}]
+indent_style = space
+indent_size = 4
+
 [*.{html,template,js,css}]
 indent_style = space
 indent_size = 2
