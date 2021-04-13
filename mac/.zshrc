@@ -19,4 +19,4 @@ export PROMPT='%n@%m %d%F{cyan}$(__git_ps1 " (%s)")%f
 %# '
 
 # ssh-agent
-eval "$(ssh-agent -s)"
+# eval "$(ssh-agent -s)"
